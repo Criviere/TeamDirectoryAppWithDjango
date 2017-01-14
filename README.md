@@ -1,4 +1,4 @@
-##Author: Camilo Riviee
+##Author: Camilo Riviere
 ##Date Created: 1/14/2017
 ##Team Directory Application: v0.1
 
