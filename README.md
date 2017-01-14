@@ -9,12 +9,14 @@ using the Django web framework. Django is a high-level Python Web framework that
 encourages rapid development and clean, pragmatic design.
 
 #Installation Prerequirements
+
 Using your favorite package mananger, install the following:
-1. [Install python] (https://wiki.python.org/moin/BeginnersGuide/Download)
-2. [Install pip] (https://pip.pypa.io/en/stable/installing/)
-3. [Install venv] (https://virtualenv.pypa.io/en/stable/installation/)
-4. [Install django] (https://docs.djangoproject.com/en/1.10/topics/install/)
-5. [Install whitenoise (to serve static files)] (https://pypi.python.org/pypi/whitenoise)
+
+  1. [Install python] (https://wiki.python.org/moin/BeginnersGuide/Download)
+  2. [Install pip] (https://pip.pypa.io/en/stable/installing/)
+  3. [Install venv] (https://virtualenv.pypa.io/en/stable/installation/)
+  4. [Install django] (https://docs.djangoproject.com/en/1.10/topics/install/)
+  5. [Install whitenoise (to serve static files)] (https://pypi.python.org/pypi/whitenoise)
 
 #Steps To Run
 1. Open Terminal.
