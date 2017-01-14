@@ -10,7 +10,7 @@ encourages rapid development and clean, pragmatic design.
 
 #Installation Prerequirements
 
-Using your favorite package mananger, install the following:
+Using your favorite package mananger, please install the following languages and packages to successfully run the application:
 
   1. [Install python (language used to develop TeamDirectory app)] (https://wiki.python.org/moin/BeginnersGuide/Download)
   2. [Install pip (package management system used to install and manage software packages written in python)] (https://pip.pypa.io/en/stable/installing/)
