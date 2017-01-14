@@ -4,7 +4,7 @@
 
 #Description
 Team Directory Application is a simple application that displays all of your
-team members assigned to a project or work division. This application was built
+team members & their respective title & email. This application was built
 using the Django web framework. Django is a high-level Python Web framework that
 encourages rapid development and clean, pragmatic design.
 
