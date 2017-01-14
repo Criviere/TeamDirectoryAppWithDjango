@@ -12,10 +12,10 @@ encourages rapid development and clean, pragmatic design.
 
 Using your favorite package mananger, install the following:
 
-  1. [Install python] (https://wiki.python.org/moin/BeginnersGuide/Download)
-  2. [Install pip] (https://pip.pypa.io/en/stable/installing/)
-  3. [Install venv] (https://virtualenv.pypa.io/en/stable/installation/)
-  4. [Install django] (https://docs.djangoproject.com/en/1.10/topics/install/)
+  1. [Install python (language used to develop TeamDirectory app)] (https://wiki.python.org/moin/BeginnersGuide/Download)
+  2. [Install pip (package management system used to install and manage software packages written in python)] (https://pip.pypa.io/en/stable/installing/)
+  3. [Install venv (virtual environment to use preferred version of python)] (https://virtualenv.pypa.io/en/stable/installation/)
+  4. [Install django (python web framework)] (https://docs.djangoproject.com/en/1.10/topics/install/)
   5. [Install whitenoise (to serve static files)] (https://pypi.python.org/pypi/whitenoise)
 
 #Steps To Run
