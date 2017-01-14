@@ -17,7 +17,7 @@ Using your favorite package mananger, install the following:
   3. [Install venv (virtual environment to use preferred version of python)] (https://virtualenv.pypa.io/en/stable/installation/)
   4. [Install django (python web framework)] (https://docs.djangoproject.com/en/1.10/topics/install/)
   5. [Install whitenoise (to serve static files)] (https://pypi.python.org/pypi/whitenoise)
-  6. [Install Heroku CLI] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwisjqHrtsLRAhWmB8AKHbucA98QFggoMAM&url=https%3A%2F%2Fdevcenter.heroku.com%2Farticles%2Fheroku-cli&usg=AFQjCNH6k3vwh5JdV_BoNh7BEOCVyqAMWQ&sig2=7li_Xen4pPdnSgN7FmXn8w&bvm=bv.144224172,d.cGw)
+  6. [Install Heroku CLI (used to build and deploy the application)] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwisjqHrtsLRAhWmB8AKHbucA98QFggoMAM&url=https%3A%2F%2Fdevcenter.heroku.com%2Farticles%2Fheroku-cli&usg=AFQjCNH6k3vwh5JdV_BoNh7BEOCVyqAMWQ&sig2=7li_Xen4pPdnSgN7FmXn8w&bvm=bv.144224172,d.cGw)
 
 #Steps To Run
 1. Open Terminal.
