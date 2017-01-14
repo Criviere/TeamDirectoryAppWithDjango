@@ -3,21 +3,18 @@
 ##Team Directory Application: v0.1
 
 #Description
----
 Team Directory Application is a simple application that displays all of your
 team members assigned to a project or work division. This application was built
 using the Django web framework. Django is a high-level Python Web framework that
 encourages rapid development and clean, pragmatic design.
 
 #Installation Prerequirements
----
 1. [Install python] (https://wiki.python.org/moin/BeginnersGuide/Download)
 2. [Install pip] (https://pip.pypa.io/en/stable/installing/)
 3. [Install venv] (https://virtualenv.pypa.io/en/stable/installation/)
 4. [Install django] (https://docs.djangoproject.com/en/1.10/topics/install/)
 
 #Steps To Run
----
 1. Open Terminal.
 2. Go to directory where project files are located.
 3. Type `cd Directory` in Terminal.
