@@ -11,10 +11,10 @@ encourages rapid development and clean, pragmatic design.
 
 #Installation Prerequirements
 ---
-1. [Install python] https://wiki.python.org/moin/BeginnersGuide/Download
-2. [Install pip] https://pip.pypa.io/en/stable/installing/
-3. [Install venv] https://virtualenv.pypa.io/en/stable/installation/
-4. [Install django] https://docs.djangoproject.com/en/1.10/topics/install/
+1. [Install python] (https://wiki.python.org/moin/BeginnersGuide/Download)
+2. [Install pip] (https://pip.pypa.io/en/stable/installing/)
+3. [Install venv] (https://virtualenv.pypa.io/en/stable/installation/)
+4. [Install django] (https://docs.djangoproject.com/en/1.10/topics/install/)
 
 #Steps To Run
 ---
